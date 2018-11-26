@@ -1,4 +1,1 @@
 # Homework Assignment #1
-..
-//
-//
