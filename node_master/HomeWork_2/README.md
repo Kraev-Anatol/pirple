@@ -10,8 +10,7 @@ The JSON file with an approximate form of the order looks so:
 		"Vegetarian" : 
 			{
 				"medium" : 2			
-			},
-	
+			},	
 		"Buffalo_chicken" : 
 			{
 				"large" : 1,
