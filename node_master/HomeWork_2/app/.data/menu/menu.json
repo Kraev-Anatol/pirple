@@ -1,1 +1,22 @@
-
+{
+	"Vegetarian" : 
+		{
+			"large" : 18,
+			"medium" : 14,
+			"small" : 8
+		},
+	
+	"Buffalo_chicken" : 
+		{
+			"large" : 19,
+			"medium" : 15,
+			"small" : 9
+		},
+	"Hawaiian" : 
+		{
+			"large" : 20,
+			"medium" : 16,
+			"small" : 10
+		}
+	
+}
