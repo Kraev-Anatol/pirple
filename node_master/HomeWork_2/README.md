@@ -1,6 +1,7 @@
 
 The order of pizza is formed in the order.js file.
 The JSON file with an approximate form of the order looks so:
+
 {   
 	"password": "addpassword",
 	"name": "Anatol",
@@ -24,6 +25,7 @@ The JSON file with an approximate form of the order looks so:
 			}
 	}	
 }
+
 The operating token - must be included in request's header.
 
 Data for registration in "Stripe" and "Mailgun" are stored in the config.js file
