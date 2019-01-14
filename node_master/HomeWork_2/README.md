@@ -2,7 +2,8 @@
 The order of pizza is formed in the order.js file.
 The JSON file with an approximate form of the order looks so:
 
-```{   
+```
+{   
 	"password": "addpassword",
 	"name": "Anatol",
 	"email": "test@mail.ru",
@@ -23,7 +24,8 @@ The JSON file with an approximate form of the order looks so:
 				"small" : 1
 			}
 	}	
-}```
+} 
+```
 
 The operating token - must be included in request's header.
 
