@@ -72,6 +72,7 @@ var blues= {
 	}
 };
 
+// Output in the console
 
 console.log(Piazzolla[0].name);
 console.log(Piazzolla[1].performer);
