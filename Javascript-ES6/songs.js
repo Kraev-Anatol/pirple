@@ -33,7 +33,7 @@ var blues= {
 			author: "Ellington Jordan",
 			lead_vocals: "Beth Hart",
 			lead_guitar: "Joe Bonamassa",
-			duration: 8.05,
+			duration: 485,
 			rock: true,
 			style: "blues"
 		},
@@ -42,7 +42,7 @@ var blues= {
 			author: "Brook Benton",
 			lead_vocals: "Beth Hart",
 			lead_guitar: "Joe Bonamassa",
-			duration: 5.14,
+			duration: 314,
 			rock: true,
 			style: "blues"
 		}
@@ -53,7 +53,7 @@ var blues= {
 			author: "Elmore James",
 			lead_vocals: "Garry B.B.Coleman",
 			lead_guitar: "Garry B.B.Coleman",
-			duration: 9.14,
+			duration: 554,
 			rock: true,
 			style: "blues"
 		},
@@ -62,7 +62,7 @@ var blues= {
 			author: " ",
 			lead_vocals: "Garry B.B.Coleman",
 			lead_guitar: "Garry B.B.Coleman",
-			duration: 4.19,
+			duration: 259,
 			rock: true,
 			style: "blues"
 		}
