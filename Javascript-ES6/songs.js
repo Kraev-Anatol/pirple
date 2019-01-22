@@ -9,7 +9,7 @@ var Piazzolla = [
 		name: "Oblivion",
 		author: "Astor Piazzolla",
 		performer: "Astor Piazzolla",
-		duration: 3.34,
+		duration: 214,
 		jazz: true,
 		style: "nuevo tango"
 	},
@@ -17,7 +17,7 @@ var Piazzolla = [
 		name: "Libertango",
 		author: "Astor Piazzolla",
 		performer: "Astor Piazzolla",
-		duration: 2.48,
+		duration: 168,
 		jazz: true,
 		style: "nuevo tango"
 	},
