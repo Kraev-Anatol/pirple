@@ -1,4 +1,9 @@
-
+/*
+*
+*
+*** Homework Assignment #5
+*
+*/
 
 var value1 = 52;
 var label1 = "hours";
