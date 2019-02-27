@@ -1,0 +1,29 @@
+h1, h2 {
+	text-align: center;
+	margin-top: 40px;
+}
+#container {
+	position: relative;
+	height: 208px;
+	width: 208px;
+	border: 4px solid rgb(223, 235, 227);
+	margin: 0 auto;		
+	margin-top: 80px;	
+}
+.tic-tac {
+	position: relative;
+	height: 50px;
+	width: 50px;
+	border: 1px solid rgba(155, 154, 154, 0.986);
+	display: block;
+	float: left;
+	background-color: rgb(243, 247, 241); 
+	cursor: pointer;	
+
+}		
+.tic-tac p {
+	margin: 0;
+	
+	text-align: center;
+	font-size: 44px;
+}
